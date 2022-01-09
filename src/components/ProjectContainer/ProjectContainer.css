@@ -1,0 +1,14 @@
+.projectcontainer{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    padding: 130px;
+}
+.projectcontainer > h1 >span{
+    color: tomato;
+}
+.projectcontainer > h1{
+    font-size: 15;
+    font-family:'Alata',sans-serif;
+}
+

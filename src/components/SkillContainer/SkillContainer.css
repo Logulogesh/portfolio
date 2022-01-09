@@ -1,0 +1,32 @@
+.skills_container{
+    display: flex;
+    justify-content: center;
+    margin:0px 100px;
+}
+.skills_image > img{
+    flex: 0.4;
+    max-width: 600px;
+    margin-right: 100px;
+    margin-top: 200px;
+    object-fit: contain;
+    border-radius: 3px;
+}
+.skills_set{
+    flex: 0.6;
+    color: white;
+    text-align:center;
+    max-width: 500px;
+    text-align: left;
+    margin-top: 180px;
+}
+.skills_set >h2{
+    font-size: 30px;
+}
+.react_slider>div>.MuiLinearProgress-colorPrimary{
+    background-color: white;
+}
+.react_slider>div>.MuiLinearProgress-barColorPrimary{
+    background-color:rgb(23, 122, 3);
+}
+
+
